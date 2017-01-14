@@ -1,0 +1,8 @@
+['levelBadge', 'badge', 'lvl_06']
+['levelBadge', 'badge', 'lvl_05']
+['levelBadge', 'badge', 'lvl_05']
+['levelBadge', 'badge', 'lvl_06']
+['levelBadge', 'badge', 'lvl_02']
+['levelBadge', 'badge', 'lvl_05']
+['levelBadge', 'badge', 'lvl_06']
+['levelBadge', 'badge', 'lvl_04']
